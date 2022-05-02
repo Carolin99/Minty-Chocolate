@@ -397,8 +397,9 @@ header h1 {
 }
 
 .mySlides img {
-   width: 35%;
+   width: 45%;
    height: auto;
+   border-radius: 10px;
 }
 
 /* Kontakt */
