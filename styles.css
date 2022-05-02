@@ -665,6 +665,7 @@ footer section {
 @media screen and (min-width:  1200px) {
     .card-group {
         height: 90vh;
+        margin-bottom: 10%;
     }
     #contact-form form {
         width: 45%;
