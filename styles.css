@@ -354,7 +354,7 @@ header h1 {
 #products .mySlides {
     display: none;
     text-align: center;
-    height: 30vh;
+    height: auto;
     overflow: hidden;
 }
 
@@ -397,8 +397,8 @@ header h1 {
 }
 
 .mySlides img {
-   height: 70%;
-   width: auto;
+   width: 35%;
+   height: auto;
 }
 
 /* Kontakt */
@@ -680,6 +680,8 @@ footer section {
         width: 45%;
         max-width: 50%;
     }
+
+
      
 
     #contact div {
