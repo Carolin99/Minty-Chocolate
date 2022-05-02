@@ -311,7 +311,7 @@ header h1 {
 }
 
 #ingredients {
-    margin: 0;
+    margin: 0 !important;
 }
 
 /* chronologie */
