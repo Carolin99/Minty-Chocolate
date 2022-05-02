@@ -310,6 +310,10 @@ header h1 {
     padding: 2em 0;
 }
 
+#ingredients {
+    margin: 0;
+}
+
 /* chronologie */
 #chronology {
     min-height: 100vh;
@@ -687,7 +691,7 @@ footer section {
     }
 
     .mySlides img {
-        width: 40%;
+        width: 35%;
      }
      
 
