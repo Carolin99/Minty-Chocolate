@@ -680,10 +680,6 @@ footer section {
         width: 45%;
         max-width: 50%;
     }
-
-    .mySlides img {
-        height: 80%;
-     }
      
 
     #contact div {
@@ -698,9 +694,5 @@ footer section {
 
     .text {
         width: 45%;
-    }
-
-    #products {
-        height: auto;
     }
 }
