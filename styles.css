@@ -558,7 +558,7 @@ footer hr {
         display: flex;
         flex-direction: row;
         width: 100vw;
-        height: 55vh;
+        height: 60vh;
     }
 
     .timeline::before {
@@ -664,7 +664,7 @@ footer section {
 
 @media screen and (min-width:  1200px) {
     .card-group {
-        height: 60vh;
+        height: 80vh;
     }
     #contact-form form {
         width: 45%;
