@@ -13,6 +13,11 @@ Farben:
     font-family: sans-serif;
 }
 
+html {
+    overflow-x: hidden;
+    max-width: 100%;
+}
+
 body {
     background-color:#fff;
     overflow-x: hidden;
