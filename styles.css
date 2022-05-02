@@ -700,4 +700,7 @@ footer section {
         width: 45%;
     }
 
+    #products {
+        height: auto;
+    }
 }
